@@ -1,0 +1,13 @@
+# Predictive Maintenance & RUL Forecasting
+
+## Day 1 - EDA
+- Loaded NASA CMAPSS dataset
+- Cleaned data (removed null columns)
+- Renamed columns
+- Performed basic analysis
+- Visualized sensor trends
+- Observed increasing, decreasing, and stable sensor patterns
+- Calculated Remaining Useful Life (RUL)
+
+## Goal
+To build a system that predicts machine failure using sensor data.
