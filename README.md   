@@ -9,5 +9,12 @@
 - Observed increasing, decreasing, and stable sensor patterns
 - Calculated Remaining Useful Life (RUL)
 
+## Day 2 – Time-Series Data Processing
+- Connected Python with TimescaleDB using SQLAlchemy
+- Queried sensor data efficiently using hypertable
+- Performed time-series visualization
+- Identified sensor trends (increasing, decreasing, stable)
+- Generated processed dataset for further modeling
+
 ## Goal
 To build a system that predicts machine failure using sensor data.
