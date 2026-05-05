@@ -23,3 +23,11 @@ env/
 
 # Logs
 *.log
+
+# Kafka downloads (exclude)
+kafka_*.tgz
+kafka_*/ 
+
+# But allow your outputs + notebooks
+!notebooks/
+!outputs/
