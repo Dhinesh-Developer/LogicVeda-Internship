@@ -19,7 +19,7 @@ env/
 
 # Data files (optional)
 *.csv
-*.txt
+
 
 # Logs
 *.log

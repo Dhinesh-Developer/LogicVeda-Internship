@@ -49,4 +49,10 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 
 ---
 
+## Day 5 - Real time kafka dashboard
+
+- Built Streamlit dashboard
+- Connected PostgreSQL database
+- Visualized real-time Kafka data
+
 # 📊 Project Workflow
