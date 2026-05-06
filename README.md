@@ -13,7 +13,7 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 
 ---
 
-# 📅 Internship Progress (Day-wise)
+#  Internship Progress (Day-wise)
 
 ## ✅ Day 1 – Data Exploration & Setup
 - Installed required tools and libraries
