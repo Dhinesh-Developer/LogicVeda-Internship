@@ -55,4 +55,31 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 - Connected PostgreSQL database
 - Visualized real-time Kafka data
 
+## 🤖 Day 6 – LSTM Autoencoder Anomaly Detection
+
+- Built LSTM Autoencoder model using PyTorch
+- Loaded real-time sensor/Kafka data from PostgreSQL
+- Preprocessed and normalized streaming data
+- Trained anomaly detection model
+- Calculated reconstruction loss for anomaly detection
+- Visualized anomalies using Matplotlib graphs
+- Saved output graphs and screenshots
+- Created Jupyter Notebook for complete workflow
+- Pushed Day 6 implementation to GitHub
+
+---
+
+## 📊 Day 7 – Real-Time AI Monitoring Dashboard
+
+- Built advanced Streamlit monitoring dashboard
+- Connected AI model predictions with PostgreSQL data
+- Visualized anomalies in real-time
+- Added KPI metrics and live monitoring panels
+- Used Plotly for interactive visualizations
+- Integrated anomaly detection outputs into dashboard
+- Installed and configured ML visualization libraries
+- Tested end-to-end AI monitoring pipeline
+- Generated real-time monitoring outputs/screenshots
+- Pushed complete Day 7 project to GitHub
+
 # 📊 Project Workflow
