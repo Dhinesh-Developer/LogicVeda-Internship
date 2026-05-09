@@ -82,4 +82,32 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 - Generated real-time monitoring outputs/screenshots
 - Pushed complete Day 7 project to GitHub
 
+## 🚀 Day 8 – Machine Learning Model Deployment & Monitoring
+
+- Prepared predictive maintenance sensor dataset
+- Performed feature engineering and preprocessing
+- Built anomaly detection workflow using Scikit-learn
+- Generated anomaly predictions on sensor streams
+- Visualized anomalies using Matplotlib and Plotly
+- Saved trained models using Joblib
+- Compared model outputs and monitoring metrics
+- Improved real-time monitoring pipeline structure
+
+---
+
+## 🚀 Day 9 – FastAPI + Streamlit AI Monitoring System
+
+- Built FastAPI backend APIs for sensor monitoring
+- Connected PostgreSQL/TimescaleDB sensor database
+- Created `/sensor-data` API endpoint
+- Developed `/anomaly-check` API endpoint
+- Integrated real sensor data from `sensor_data` table
+- Built Streamlit real-time monitoring dashboard
+- Displayed live sensor metrics and anomaly results
+- Added Plotly interactive visualization charts
+- Integrated end-to-end AI monitoring pipeline
+- Connected Database → FastAPI → Streamlit workflow
+
+---
+
 # 📊 Project Workflow

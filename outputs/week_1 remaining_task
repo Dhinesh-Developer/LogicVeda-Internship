@@ -1,0 +1,57 @@
+timestamp  sensor_value  failure_label
+0 2026-01-01 00:00:00     52.483571            0.0
+1 2026-01-01 00:01:00     49.308678            0.0
+2 2026-01-01 00:02:00     53.238443            0.0
+3 2026-01-01 00:03:00     57.615149            0.0
+4 2026-01-01 00:04:00     48.829233            0.0
+
+========== ADF TEST ==========
+ADF Statistic: -32.11595393894677
+p-value: 0.0
+Data is stationary
+
+========== KPSS TEST ==========
+KPSS Statistic: 0.12930791692886093
+p-value: 0.1
+Data is stationary
+
+========== FFT ANALYSIS ==========
+
+========== ISOLATION FOREST ==========
+iso_anomaly
+0    970
+1     30
+Name: count, dtype: int64
+
+========== LOCAL OUTLIER FACTOR ==========
+lof_anomaly
+0    970
+1     30
+Name: count, dtype: int64
+
+========== ROC AUC ==========
+ROC-AUC: 0.8929471927270144
+
+========== PR AUC ==========
+PR-AUC: 0.6140459770114943
+========== Z-SCORE ==========
+z_anomaly
+0    979
+1     21
+Name: count, dtype: int64
+
+========== MAD METHOD ==========
+mad_anomaly
+0    976
+1     24
+Name: count, dtype: int64
+
+========== MLFLOW LOGGING ==========
+2026/05/08 06:56:06 INFO mlflow.store.db.utils: Creating initial MLflow database tables...
+2026/05/08 06:56:07 INFO mlflow.store.db.utils: Updating database tables
+2026/05/08 06:56:54 INFO mlflow.tracking.fluent: Experiment with name 'week1_anomaly_detection' does not exist. Creating a new experiment.
+MLflow logging completed
+
+================================================
+ALL REMAINING WEEK 1 TASKS COMPLETED SUCCESSFULLY
+================================================
