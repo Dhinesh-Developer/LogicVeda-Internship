@@ -110,4 +110,16 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 
 ---
 
+## 🚀 Day 10 – MLflow Experiment Tracking
+
+- Installed and configured MLflow
+- Trained Isolation Forest anomaly detection model
+- Logged model parameters and accuracy metrics
+- Saved trained ML model using MLflow
+- Created experiment tracking workflow
+- Visualized experiments in MLflow UI
+- Learned MLOps experiment management basics
+
+---
+
 # 📊 Project Workflow

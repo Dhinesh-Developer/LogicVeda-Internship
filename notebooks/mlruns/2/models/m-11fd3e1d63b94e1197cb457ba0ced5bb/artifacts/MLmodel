@@ -1,0 +1,23 @@
+artifact_path: /home/arise/Arise_c/LogicVeda_Intern/notebooks/mlruns/2/models/m-11fd3e1d63b94e1197cb457ba0ced5bb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-11fd3e1d63b94e1197cb457ba0ced5bb
+model_size_bytes: 992546
+model_uuid: m-11fd3e1d63b94e1197cb457ba0ced5bb
+prompts: null
+run_id: 065b104f69d5453faf46c94cce603791
+utc_time_created: '2026-05-10 06:24:57.181339'
