@@ -122,4 +122,13 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 
 ---
 
+## 🚀 Day 11 – Real-Time Prediction API
+
+- Trained Isolation Forest anomaly detection model
+- Saved trained model using Joblib
+- Loaded ML model inside FastAPI
+- Built real-time prediction API endpoint
+- Returned anomaly predictions using JSON responses
+- Implemented production-style AI inference workflow
+
 # 📊 Project Workflow
