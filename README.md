@@ -131,4 +131,14 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 - Returned anomaly predictions using JSON responses
 - Implemented production-style AI inference workflow
 
+## 🚀 Day 12 – Real-Time Sensor Prediction API
+
+- Built FastAPI POST prediction endpoint
+- Added dynamic sensor input handling
+- Implemented Pydantic request validation
+- Performed real-time anomaly prediction
+- Returned JSON-based AI inference results
+- Tested API using Swagger UI
+- Simulated normal and anomaly sensor inputs
+
 # 📊 Project Workflow
