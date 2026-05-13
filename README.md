@@ -141,4 +141,14 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 - Tested API using Swagger UI
 - Simulated normal and anomaly sensor inputs
 
+## 🚀 Day 13 – Prediction Logging System
+
+- Built FastAPI prediction logging pipeline
+- Connected AI prediction API with PostgreSQL
+- Stored prediction history into database
+- Added anomaly logging workflow
+- Implemented production-style prediction tracking
+- Saved sensor values and prediction outputs
+- Created audit trail for AI monitoring system
+
 # 📊 Project Workflow
